@@ -33,6 +33,8 @@
 - UVAxxxxx：[UVA Online Judge](https://onlinejudge.org/) 题目
 - ATxxxx：[AtCoder](https://atcoder.jp/) 题目
 
+****
+
 - NOIPxxxx：NOIP 题目
 - CSP2019：CSP 题目
 - NOI Online 1/2：NOI Online 题目
@@ -47,3 +49,7 @@
 - COCIxxxx-xxxx #x：COCI题目
 - POIxxxx：POI题目
 - BOIxxxx：BOI题目
+
+## 注意事项
+
+1. 本项目中的代码仅供学习参考，请勿将此项目中的代码用于提交任何 OJ，这样对你没有任何好处！
