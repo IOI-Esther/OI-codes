@@ -32,6 +32,7 @@
 - CFxxxx：[Codeforces](https://www.codeforces.com/) 比赛题目
 - UVAxxxxx：[UVA Online Judge](https://onlinejudge.org/) 题目
 - ATxxxx：[AtCoder](https://atcoder.jp/) 题目
+- vijosxxxx：[Vijos](https://vijos.org/) 题目
 
 ****
 
